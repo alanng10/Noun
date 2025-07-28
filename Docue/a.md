@@ -54,6 +54,8 @@ Noun has park cross.
 
 Noun has major.
 
+Noun has major on any.
+
 Noun has major on stat.
 
 Noun has major on rate.
