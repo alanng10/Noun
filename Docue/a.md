@@ -57,3 +57,5 @@ Noun has major.
 Noun has major on stat.
 
 Noun has major on rate.
+
+Noun has major on range.
