@@ -53,3 +53,5 @@ Noun has park mark.
 Noun has park cross.
 
 Noun has major.
+
+Noun has major on stat.
