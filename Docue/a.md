@@ -65,3 +65,5 @@ Noun has major on range.
 Noun has major on did.
 
 Noun has rate on gain.
+
+Noun has rate on regain.
